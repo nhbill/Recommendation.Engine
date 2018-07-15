@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recommender.Console", "Recommender.Console\Recommender.Console.csproj", "{A13A8294-5B0F-4786-8313-420ACD251BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecommendationEngine", "RecommendationEngine\RecommendationEngine.csproj", "{8EE09C5F-1F62-4649-9124-1E7F02D13A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13A8294-5B0F-4786-8313-420ACD251BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13A8294-5B0F-4786-8313-420ACD251BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13A8294-5B0F-4786-8313-420ACD251BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13A8294-5B0F-4786-8313-420ACD251BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE09C5F-1F62-4649-9124-1E7F02D13A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE09C5F-1F62-4649-9124-1E7F02D13A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE09C5F-1F62-4649-9124-1E7F02D13A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE09C5F-1F62-4649-9124-1E7F02D13A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15A24374-2095-4469-B4DD-C61219B65F45}
+	EndGlobalSection
+EndGlobal
